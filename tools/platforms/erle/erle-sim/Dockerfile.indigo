@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:trusty-20190425
 
 # Build with:
 # docker build -t erle-sim:indigo -f Dockerfile.indigo .
